@@ -1,0 +1,6 @@
+Parts we used : 
+1-Ultra Sonix sensor 
+2-Arduino Uno
+3-bread board
+4-micro servo 
+5-jumper cables
